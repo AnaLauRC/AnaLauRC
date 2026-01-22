@@ -10,7 +10,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+15&size=30&pause=1000&color=42C3B4&center=true&vCenter=true&width=520&lines=Hello!+Welcome+to+my+GitHub+page.;¡Hola!+Bienvenido+a+mi+GitHub.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+15&size=30&pause=1000&color=42C3B4&center=true&vCenter=true&width=520&lines=Hello!+Welcome+to+my+GitHub+page.;¡Hola!+Bienvenido+a+mi+página+de+GitHub.)](https://git.io/typing-svg)
 
 </div>
 
@@ -57,18 +57,18 @@ Disfruto diseñar sistemas seguros y escalables utilizando tecnologías modernas
 
 <table width="100%" align="center">
 <tr>
-<th align="left">🇺🇸 English</th>
-<th align="left">🇲🇽 Español</th>
+<th align="left">English</th>
+<th align="left">Español</th>
 </tr>
 
 <tr>
-<td>🗄️ Database Engineering (Oracle, SQL)</td>
-<td>🗄️ Ingeniería de bases de datos (Oracle, SQL)</td>
+<td>🗄️ Database Engineering</td>
+<td>🗄️ Ingeniería de bases de datos</td>
 </tr>
 
 <tr>
-<td>📊 Data Engineering & Streaming (Kafka)</td>
-<td>📊 Ingeniería de datos y streaming (Kafka)</td>
+<td>📊 Data Engineering & Streaming</td>
+<td>📊 Ingeniería de datos y streaming</td>
 </tr>
 
 <tr>
@@ -87,8 +87,8 @@ Disfruto diseñar sistemas seguros y escalables utilizando tecnologías modernas
 </tr>
 
 <tr>
-<td>🔭 Software Development (Backend / Full Stack)</td>
-<td>🔭 Desarrollo de software (Backend / Full Stack)</td>
+<td>🔭 Software Development</td>
+<td>🔭 Desarrollo de software</td>
 </tr>
 
 <tr>
@@ -117,8 +117,8 @@ Disfruto diseñar sistemas seguros y escalables utilizando tecnologías modernas
 <table width="100%" align="center">
 <tr>
 <th align="left">📌 Project</th>
-<th align="left">🇺🇸 Description (EN)</th>
-<th align="left">🇲🇽 Descripción (ES)</th>
+<th align="left">Description</th>
+<th align="left">Descripción</th>
 </tr>
 
 <tr>
@@ -210,7 +210,7 @@ Análisis y monitoreo de datos con dashboards y reportes seguros.
     <br/>
     “No temo a los ordenadores; lo que temo es quedarme sin ellos.”
     <br/>
-                                               — Isaac Asimov
+    — Isaac Asimov
   </em>
  
 </div>
