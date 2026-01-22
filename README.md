@@ -191,7 +191,7 @@ Análisis y monitoreo de datos con dashboards y reportes seguros.
 ## <img src="https://cdn-icons-gif.flaticon.com/17688/17688101.gif" width="28"/> Contact | Contacto
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ana-laura-ramírez-cervantes-0b64533a6/" target="_blank">
+<a href="https://www.linkedin.com/in/ana-laura-r-c-0101--/" target="_blank">
   <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" height="45"/>
 </a>
 <a href="mailto:analaura01012003@gmail.com">
