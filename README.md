@@ -45,10 +45,8 @@ Desarrolladora fullstack que construye **aplicaciones web y APIs** de punta a pu
 
 - 🎓 Ingeniera en Sistemas Computacionales
 - 💼 Fullstack Developer Engineer
-- 🐍 Backend favorito: Python (Django · FastAPI) y PHP (Laravel)
-- 🐘 Base de datos favorita: PostgreSQL (Neon en la nube)
-- ⌨️ Editores: Neovim · Visual Studio Code · Visual Studio
-- 🚀 Despliego en Render y Docker
+- 🐍 Backend favorito: Python
+- 🐘 Base de datos favorita: PostgreSQL
 
 </details>
 
@@ -225,10 +223,8 @@ Fullstack developer building **web applications and APIs** end to end, from data
 
 - 🎓 Computer Systems Engineer
 - 💼 Fullstack Developer Engineer
-- 🐍 Favorite backend: Python (Django · FastAPI) and PHP (Laravel)
-- 🐘 Favorite database: PostgreSQL (Neon in the cloud)
-- ⌨️ Editors: Neovim · Visual Studio Code · Visual Studio
-- 🚀 Deploying with Render and Docker
+- 🐍 Favorite backend: Python
+- 🐘 Favorite database: PostgreSQL
 
 </details>
 
@@ -405,10 +401,8 @@ Développeuse fullstack qui conçoit des **applications web et des API** de bout
 
 - 🎓 Ingénieure en systèmes informatiques
 - 💼 Fullstack Developer Engineer
-- 🐍 Backend préféré : Python (Django · FastAPI) et PHP (Laravel)
-- 🐘 Base de données préférée : PostgreSQL (Neon dans le cloud)
-- ⌨️ Éditeurs : Neovim · Visual Studio Code · Visual Studio
-- 🚀 Déploiement avec Render et Docker
+- 🐍 Backend préféré : Python
+- 🐘 Base de données préférée : PostgreSQL
 
 </details>
 
